@@ -1,0 +1,16 @@
+name: "LangSci Course"
+title: "Language Sciences Course"
+description: |
+  Language Sciences
+output_dir: "_site"
+navbar:
+  right:
+    # text: "首頁(HOME)"
+    # href: index.html
+    - text: "關於 About"
+      href: about.html
+    - text: "課程 Course"
+      href: course.html
+output: 
+  distill::distill_article
+

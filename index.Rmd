@@ -1,0 +1,70 @@
+---
+title: "語言科學教育 Language Sciences Education"
+description: "這是語言科學的教育課程網站。由教育部/科技部人文社會領域標竿計畫支持。"
+output:
+  distill::distill_article:
+    self_contained: false
+    anchor_sections: FALSE
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+<div class='index-title' style="align:center;">
+
+</div>
+
+```{r, layout="l-page", fig.height=5}
+library(DiagrammeR)
+
+example_graph <-
+  create_graph() %>%
+  add_pa_graph(
+    n = 50, m = 1,
+    set_seed = 23
+  ) %>%
+  add_gnp_graph(
+    n = 50, p = 1/100,
+    set_seed = 23
+  ) %>%
+  join_node_attrs(df = get_betweenness(.)) %>%
+  join_node_attrs(df = get_degree_total(.)) %>%
+  colorize_node_attrs(
+    node_attr_from = total_degree,
+    node_attr_to = fillcolor,
+    palette = "Greens",
+    alpha = 90
+  ) %>%
+  rescale_node_attrs(
+    node_attr_from = betweenness,
+    to_lower_bound = 0.5,
+    to_upper_bound = 1.0,
+    node_attr_to = height
+  ) %>%
+  select_nodes_by_id(nodes = get_articulation_points(.)) %>%
+  set_node_attrs_ws(node_attr = peripheries, value = 2) %>%
+  set_node_attrs_ws(node_attr = penwidth, value = 3) %>%
+  clear_selection() %>%
+  set_node_attr_to_display(attr = NULL)
+
+render_graph(example_graph, layout = "nicely")
+```
+
+## 語言的複雜特質・需要多元跨域的高度融合
+語言是人類的本質性特徵。**語言與我們的思想與社會生活、歷史文化息息相關。**近年來，語言科技與認知計算相關研究領域也已成為邁向通用、可解釋性 AI 技術中的關鍵指標。  
+
+然而語言不僅是高等認知運算機制中的核心，同時也是人文化成的人類產物。要理解語言本身的複雜特質，語言的科學探究必須在多元跨域上進行高度的知識融合。
+
+## 應運而生的語言科學課程
+由於這個時代要求與科學進展，使得語言學 (linguistics) 更朝向語言科學 (language science) 的視野中推進，語言學學門裡的各個子領域，除了自身之間的議題（語音、語法、語意) 與方法（實驗、計算、跨文化質性）之間的流動，對於數位人文與創作、神經心理、社會文化、自然語言處理、語言復健、語言教學與司法、傳播與社會科學、地理學等都開啟了緊密的連結。
+
+語言科學所涵蓋的範圍幾乎無所不包，我們將從這裡出發，逐步發展符合時代需要的語言科學教育課程。歡迎瀏覽我們的網頁與課程，並實際參與課程活動！
+
+
+

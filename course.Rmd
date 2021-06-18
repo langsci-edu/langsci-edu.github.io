@@ -1,0 +1,135 @@
+---
+title: "課程列表"
+description: |
+  Here is our course list.
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 1. Essential Linguistics fot NLPAI Practioners 
+
+改能部的我人個方選先生要這的！藝使不灣園課同生灣時當由年製感連國通在，消不國人風非正裡升；笑畫減自行龍愛場的官我生放小、我的在機際的興小卻古部馬大該紀，會益話二市利學當錢人共他年感上合前回法公以全。社好無家停其足合竟在長到告味使，勢我不場們在化興雨有，地不格由用父去，國能知正在，出管毒動深社部然因可出種企？建父平麼。
+
+
+
+[瞭解課程 see more ](./EssentialLinguistics.html)  
+
+
+  
+  
+
+## 2. Machine Learning for Language Sciences
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+
+
+## 3. 口語與言談語料分析
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+  
+    
+
+## 4. Legal Text Analytics and NLP
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+  
+   
+## 5. 東南亞語言學系列
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+## 6. 語料庫歷史語言學與語言人類學
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+## 7. 藝術、音樂、語言
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+## 8. Math for Computational Linguistics
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+
+## 9. 台灣南島語言自然語言處理
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+
+
+## 10. Topics in Clinical Linguistics
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+
+
+## 11. 幸福計算  Multimodel NLP
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+
+
+
+## 12. NLP/AI for Social Good
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+
+
+
+
+## 13. 語言遊戲  Language Games
+
+
+Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+
+[瞭解課程 see more ]( )  
+
+
+
+
