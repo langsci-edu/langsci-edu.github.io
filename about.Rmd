@@ -1,24 +1,49 @@
 ---
 title: "關於我們"
 description: |
-  Some additional details about the website
+  這是由科技部與教育部人文社會領域標竿計畫支持下的計畫
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-值此時代背景，我們認為急需推動新一代的語言學教育。透過教育部/科技部人文社會領域標竿計畫的支持，我們的目標是:  
+## 目的與任務
 
-> 打造一個語言研究的研發環境，培育具【深度語言分析】(deep linguistic analytics) 前瞻性能力的優質人才，使其能夠提早浸淫在不拘泥知識邊界的語言研究探勘與創新應用開發。    
+語言是人類的本質性特徵。語言與我們的思想與社會生活、歷史文化息息相關。而在近年來，語言科技與認知計算相關研究領域也已然成為邁向通用、可解釋性 AI 技術中的關鍵指標。然而語言不僅是高等認知運算機制中的核心，同時也是人文化成的人類產物。要理解語言本身的複雜特質，語言的科學探究必須在多元跨域上進行高度的知識融合。這個時代要求與科學進展，使得<span style="color:blue">語言學 (linguistics)</span> 更朝向<span style="color:blue">語言科學 (language science)</span> 的視野中推進，語言學學門裡的各個子領域，除了自身之間的議題（語音、語法、語意) 與方法 (實驗、計算、跨文化質性）之間的流動，對於數位人文與創作、神經心理、社會文化、自然語言處理、語言復健、語言教學與司法、傳播與社會科學、地理學等都開啟了緊密的連結。
+
+值此時代背景，我們認為急需推動新一代的語言學教育，使其能夠提早浸淫在不拘泥知識邊界的語言研究探勘與創新應用開發。而這樣的人才培育藍圖，除了知識素材、學習樣貌、實踐場域的內容與導引設計，需要一個常態性的支持系統，才能從長期的醞釀中爆發研究能量與社會貢獻。[國立臺灣大學語言學研究所](https://linguistics.ntu.edu.tw/) 在 QS 世界大學語言學領域 (Linguistics) 排名向來名列前茅（2020 第 47 名， 2018 第 39 名），勝過歐美許多的頂尖名校。可惜的是百大排名內只有台大/台灣沒有語言學大學部，這是本計畫在目前階段希望能夠承擔與作為過渡的實踐動機之一。我們希望藉由這個常態性支持系統，銜接特色領域中心，爭取承辦國際語奧賽事，吸引全球頂尖的學子來台灣就讀。
+
+透過教育部/科技部人文社會領域標竿計畫 (2021-22) 的支持，我們的目標是:  
+
+> 打造一個開放、透明的語言科學學習與研發環境，培育具【深度語言分析】前瞻性能力的優質人才，使其能夠提早浸淫在不拘泥知識邊界的語言研究探勘與創新應用開發，帶給人類社會更多的福祉。   
+
+歡迎各界指教與共襄盛舉！
+
+計畫總主持人：台大語言學研究所 謝舒凱 
+
+
+## Our Mission
+
+Language is an essential feature of human beings. It is closely related to our thoughts-shaping, social life, history, and culture. In recent years, the research fields related to language technology and cognitive computing have also become key indicators in moving towards general and interpretable AI technology. However, language is not only the core of the higher cognitive computing mechanism but also the cultivated product of human culture. To understand the complex characteristics of language itself, the scientific inquiry of language must carry out a high degree of knowledge integration in multiple and cross-domain. The requirements of this era and scientific progress have made linguistics more advanced from the perspective of language science. The various subfields of linguistics, in addition to their own issues (phonetics, grammar, semantics) and the link between methods (experimental, computational, and cross-cultural qualitative), for digital humanities and creation, neuropsychology, social culture, natural language processing, language rehabilitation, language teaching and justice, communication and social sciences, geography, etc. A tight connection is opened.
+
+Against the background of this era, we believe that there is an urgent need to promote a new generation of linguistic education. This project aims to create a language research eco-system and cultivate high-quality talents with [deep linguistic analytics] forward-looking capabilities so that they can immerse themselves in language research exploration and innovative applications that do not adhere to knowledge boundaries. Such a blueprint for talent cultivation requires a normal and substantial support system, equipped with the proper design of knowledge materials, learning diversity, and its connection to the practice field, in order to unleash research potentials and promote social contribution from long-term brewing.
+
+We are on a journey to democratize knowledge, with the belief that scientific progress is generated and leveled by collaboration in a democratic environment, and the open access to the content will be made freely available to everyone.
+
+
+## Funder
+
+- Taiwan MOST/MoE
 
 
 
-### 實踐動機
-國立臺灣大學語言學研究所在 QS 世界大學語言學領域 (Linguistics) 排名向來名列前茅（2020 第 47 名， 2018 第 39 名），勝過歐美許多的頂尖名校。可惜的是百大排名內只有台大/台灣沒有語言學大學部，這是本計畫在目前階段希望能夠承擔與作為過渡的實踐動機之一。
 
-### 中長程目標
-這樣的人才培育藍圖，除了知識素材、學習樣貌、實踐場域的內容與導引設計，亦需要一個常態性的支持系統，才能從長期的醞釀中爆發研究能量與社會貢獻。我們希望藉由這個常態性支持系統，銜接特色領域中心，在入駐台大人文大樓之後，爭取承辦國際語奧賽事，吸引全球頂尖的學子來台灣就讀。
+
+---
+
+![]()
+
 
 
 

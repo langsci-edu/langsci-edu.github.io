@@ -1,7 +1,7 @@
-name: "Language Sciences"
-title: "Language Sciences"
+name: "Open Language Sciences"
+title: "Open Language Sciences"
 description: |
-  Language Sciences
+  開放前瞻語言科學
 output_dir: "_site"
 navbar:
   right:
@@ -9,8 +9,10 @@ navbar:
     # href: index.html
     - text: "關於 About"
       href: about.html
-    - text: "課程 Course"
+    - text: "課程列表 Course list"
       href: course.html
+    - text: "領域專長地圖"
+      href: map.html
 output: 
   distill::distill_article
 
