@@ -1,0 +1,221 @@
+{
+  "courses": [    
+    {
+      "id": "PL0001",
+      "zh_name": "AI工程師的口袋語言學",
+      "en_name": "Essential Linguistics fot NLP/AI Practioners",
+      "group": 4,
+      "instructor": null,
+      "required": []
+    },
+    {
+      "id": "PL0002",
+      "zh_name": "語言計算方法導論",
+      "en_name": "Computing Skills for linguistics",
+      "group": 4,
+      "instructor": null,
+      "required": ["AI工程師的口袋語言學"]
+    },
+    {
+      "id": "PL0011",
+      "zh_name": "R程式設計與語言資料分析",
+      "en_name": "R programming and linguistic data analysis",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言計算方法導論"]
+    },
+    {
+      "id": "PL0012",
+      "zh_name": "人文學群的Python程式設計",
+      "en_name": "Python for Humanities and Social Sciences",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言計算方法導論"]
+    },
+    {
+      "id": "PL0013",
+      "zh_name": "語言資料分析導論",
+      "en_name": "Introduction to linguistic data analysis",
+      "group": 4,
+      "instructor": null,
+      "required": ["人文學群的Python程式設計"]
+    },
+    {
+      "id": "PL0014",
+      "zh_name": "計算詞彙語意模型",
+      "en_name": "Computational lexical semantics Hands-on",
+      "group": 4,
+      "instructor": null,
+      "required": ["人文學群的Python程式設計", "語言學家的數學課"]
+    },
+    {
+      "id": "PL0015",
+      "zh_name": "語言科學中的機器學習",
+      "en_name": "Machine Learning for Language Sciences",
+      "group": 4,
+      "instructor": null,
+      "required": ["計算詞彙語意模型"]
+    },
+    {
+      "id": "PL0016",
+      "zh_name": "語言科學中的深度學習",
+      "en_name": "Deep Learning for Language Sciences",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言科學中的機器學習"]
+    },
+    {
+      "id": "PL0017",
+      "zh_name": "語言學家的數學課",
+      "en_name": "Algorithmic fundamentals",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言計算方法導論"]
+    },
+    {
+      "id": "PL0018",
+      "zh_name": "語言實驗統計分析",
+      "en_name": "Statistical models for linguistic experiments",
+      "group": 4,
+      "instructor": null,
+      "required": ["R程式設計與語言資料分析"]
+    },
+    {
+      "id": "PL3011",
+      "zh_name": "台灣南島語言與機器學習應用",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言科學中的機器學習"]
+    },
+    {
+      "id": "PL3012",
+      "zh_name": "語言類型學語料分析",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言計算方法導論"]
+    },
+    {
+      "id": "PL0081",
+      "zh_name": "產學專題：中華電信輿論情緒分析",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言科學中的深度學習"]
+    },
+    {
+      "id": "PL0082",
+      "zh_name": "歷史辭典學製作",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["計算詞彙語意模型"]
+    },
+    {
+      "id": "PL0083",
+      "zh_name": "口語與言談語料分析",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言資料分析導論"]
+    },
+    {
+      "id": "PL4001",
+      "zh_name": "法律文本分析與自然語言處理",
+      "en_name": "Legal Text Analytics and NLP",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言科學中的機器學習"]
+    },
+    {
+      "id": "PL4002",
+      "zh_name": "東南亞語言學系列",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言計算方法導論"]
+    },
+    {
+      "id": "PL4003",
+      "zh_name": "語料庫歷史語言學與語言人類學",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言資料分析導論"]
+    },
+    {
+      "id": "PL4084",
+      "zh_name": "藝術、音樂、語言",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["計算詞彙語意模型"]
+    },
+    {
+      "id": "PL4085",
+      "zh_name": "台灣南島語言自然語言處理",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言科學中的深度學習"]
+    },
+    {
+      "id": "PL1011",
+      "zh_name": "(影像分析)",
+      "en_name": "",
+      "group": 1,
+      "instructor": null,
+      "required": ["人文學群的Python程式設計"]
+    },
+    {
+      "id": "PL1021",
+      "zh_name": "(neural decoding)",
+      "en_name": "",
+      "group": 1,
+      "instructor": null,
+      "required": []
+    },
+    {
+      "id": "PL2001",
+      "zh_name": "語言治療",
+      "en_name": "Topics in Clinical Linguistics",
+      "group": 2,
+      "instructor": null,
+      "required": []
+    },
+    {
+      "id": "PL0808",
+      "zh_name": "多模態語言處理",
+      "en_name": "Multimodal NLP",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言科學中的深度學習"]
+    },
+    {
+      "id": "PL0806",
+      "zh_name": "自然語言處理與社會福祉",
+      "en_name": "NLP/AI for Social Good",
+      "group": 4,
+      "instructor": null,
+      "required": [ "語言科學中的深度學習"]
+    },
+    {
+      "id": "PL0901",
+      "zh_name": "語言遊戲",
+      "en_name": "Language Games",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言科學中的深度學習"]
+    },
+    {
+      "id": "PL0902",
+      "zh_name": "宗教與語言",
+      "en_name": "",
+      "group": 4,
+      "instructor": null,
+      "required": ["語言計算方法導論"]
+    }
+  ]
+  
+}

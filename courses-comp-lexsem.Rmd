@@ -19,7 +19,7 @@ FastText. Finally, we talk about how word embeddings are related to deep languag
 
 |   主題  |   描述      | 資源連結
 |---------|-----------|-------
-| 詞向量   | 詞向量簡介：把詞意轉化成數字  | [影片](https://www.youtube.com/watch?v=CocrMeD6p70)
+| 詞向量   | 詞向量簡介：把詞意轉化成數字  | [影片](https://youtu.be/hWUpyzjk1D4)
 | word2vec模型   |  word2vec: 可以預測鄰近詞的向量就是好向量  |
 | FastText 模型  |  FastText: 從詞彙次單位建立詞向量   |
 | 潛在語意分析 |  LSA: 分析詞彙與文章的共現  |
