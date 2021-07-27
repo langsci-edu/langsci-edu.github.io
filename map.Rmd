@@ -1,7 +1,6 @@
 ---
 title: "課程地圖與領域專長"
-description: |
-  Some additional details about the website
+description: ""
 ---
 
 ```{r setup, include=FALSE}
@@ -9,21 +8,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 具備基礎核心的語言學知識之後，可以選擇不同的領域（跨域）專長學習。
-以下是不同的課程模組，標上星號者，按規定修習完畢可以獲得台大語言所頒發之證照。
+以下是不同的課程模組。
+ <!-- 標上星號者，按規定修習完畢可以獲得台大語言所頒發之證照。 -->
 
+## 語言資料科學｜Linguistic Data Science
 
-> 課程地圖
+## 語言治療 | Clinical Linguistics
 
+## 台灣本土語言與文化
 
-## *台灣本土計算語言學 ｜Computational Linguistics for Chinese and Formosan Languages
+## 語言資料處理方法 | Computational methods for linguistics
 
-南島語言學、台語自然語言處理 
-
-
-
-## *醫療語言學 | Clinical Linguistics
-
-自閉
-
-
-## 多模態語言處理 | Multimodal Language Sciences

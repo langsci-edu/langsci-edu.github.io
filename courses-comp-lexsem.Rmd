@@ -1,0 +1,29 @@
+---
+title: "計算詞彙語意模型"
+output: distill::distill_article
+---
+
+### 🎯 課程目標
+
+近年來自然語言處理的發展，有很大一部分都跟向量語意模型有關。雖然將詞彙用一組數字來表達－不管我們叫不叫這組數字為向量－並不是一個非常革命性的概念。
+在二十幾年來，有很多模型試圖用特徵分配、矩陣運算、機率分配、預測共現詞等各種方式來表徵詞彙語意。在這個課程中，我們將首先介紹詞向量的基本概念：
+為什麼向量（某種程度上）可用來描述詞彙語意。其次我們將逐步介紹各種詞向量模型的內容，了解每個模型背後是如何描繪文本、詞彙、語言脈絡之間的關係。
+同時，這個課程也會展示如何使用現有的預訓練詞向量模型，甚至如何從自己的語料中訓練詞向量。
+
+Semantic vector space models are widely used in recent years. However, vector semantic is not a new idea, 
+and some specific models have been used for more than 20 years. In this course, we begin with classic models such as 
+LSA and topic modeling. Afterward, we move toward the embeddings model of lexical semantics and introduce word2vec, 
+FastText. Finally, we talk about how word embeddings are related to deep language models.
+
+### 📓 Lesson Plan
+
+|   主題  |   描述      | 資源連結
+|---------|-----------|-------
+| 詞向量   | 詞向量簡介：把詞意轉化成數字  | [影片](https://www.youtube.com/watch?v=CocrMeD6p70)
+| word2vec模型   |  word2vec: 可以預測鄰近詞的向量就是好向量  |
+| FastText 模型  |  FastText: 從詞彙次單位建立詞向量   |
+| 潛在語意分析 |  LSA: 分析詞彙與文章的共現  |
+| 主題模型  |  Topic Model: 詞彙生成的機率模型   |
+| 介紹深度語言模型  |  深度學習遇上詞彙語意  |
+| 使用預訓練的詞向量  |  如何使用FastText 預訓練模型  |
+| 如何訓練自己的詞向量 |  如何使用gensim訓練自己的詞向量  |

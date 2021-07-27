@@ -1,0 +1,15 @@
+---
+title: "R 程式設計"
+description: Ｒ程式設計
+    
+# date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### 課程規劃
+
+R語言的課程規劃

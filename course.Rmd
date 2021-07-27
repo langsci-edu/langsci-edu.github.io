@@ -1,7 +1,6 @@
 ---
 title: "課程列表"
-description: |
-  Here is our course list.
+description: ""
 output: distill::distill_article
 ---
 
@@ -11,129 +10,106 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## AI 工程師的口袋語言學 | Essential Linguistics fot NLP/AI Practioners 
 
-改能部的我人個方選先生要這的！藝使不灣園課同生灣時當由年製感連國通在，消不國人風非正裡升；笑畫減自行龍愛場的官我生放小、我的在機際的興小卻古部馬大該紀，會益話二市利學當錢人共他年感上合前回法公以全。社好無家停其足合竟在長到告味使，勢我不場們在化興雨有，地不格由用父去，國能知正在，出管毒動深社部然因可出種企？建父平麼。
+本課程專為 NLP/AI 領域從業人員設計，節選相關之語言學精要進行導論式授課，預期在3個月內提升修課者對語言的認識與敏感度，有助於各項語言相關任務之處理與研發潛能。授課內容包含語言學概論之精選章節，如構詞、句法、語意、語用、語音、聲韻，亦包含社會文化、心理語言、語言的神經處理機制，並擴展至語料庫語言學、文本分析、多模態語言等。
 
+[瞭解課程 see more ](./courses-EssentialLinguistics.html)  
 
+## 語言計算方法導論 | Computing Skills for linguistics
 
-[瞭解課程 see more ](./EssentialLinguistics.html)  
+[瞭解課程 see more ](./courses-computation.html)  
 
+## R程式設計與語言資料分析 | R programming and linguistic data analysis
 
-## 統計與 R 的程式課 | R programming 
+[瞭解課程 see more ](./courses-R-prog.html)  
 
-[瞭解課程 see more ](./R.hmtl)  
+## 人文學群的Python程式設計 | Python for Humanities and Social Sciences
 
-## 程式課 | Python for Humanities and Social Sciences
+[瞭解課程 see more ](./courses-python.html)  
 
-[瞭解課程 see more ](./python.html)  
+## 語言資料分析導論 | Introduction to linguistic data analysis
 
-## 語言科學的機器學習入門 | Machine Learning for Language Sciences
+[瞭解課程 see more ](./courses-text-analysis.html)
 
+## 計算詞彙語意模型 | Computational lexical semantics Hands-on
 
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+此課程將介紹各種詞向量詞向量模型的內容，以及每個模型背後是如何用計算與形式符號，描繪文本、詞彙、語言脈絡之間的關係。同時，此課程也將實際操作如何使用現有的預訓練詞向量模型，甚至如何從自己的語料中訓練詞向量。
 
-[瞭解課程 see more ]( )  
+[瞭解課程 see more ](./courses-comp-lexsem.html)
 
-## 語言學家的數學課 | Math for (Computational) Linguistics
+## 語言科學中的機器學習 | Machine Learning for Language Sciences
 
+[瞭解課程 see more ](./courses-ML-classics.html)  
 
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+## 語言科學中的深度學習 | Deep Learning for Language Sciences
 
-[瞭解課程 see more ]( )  
+[瞭解課程 see more ](./courses-ML-DL.html)  
 
+## 語言學家的數學課 | Algorithmic fundamentals
+
+[瞭解課程 see more ](./courses-algo-fun.html)  
+
+## 語言實驗統計分析 | Statistical models for linguistic experiments
+
+[瞭解課程 see more ](./courses-stat-adv.html)  
+
+## 台灣南島語言與機器學習應用
+
+[瞭解課程 see more ](./courses-austnes-ml.html) 
+
+## 語言類型學語料分析
+
+[瞭解課程 see more ](./courses-typology.html) 
+
+## 產學專題：中華電信輿論情緒分析
+
+[瞭解課程 see more ](./courses-ind-cht.html) 
+
+## 歷史辭典學製作
+
+[瞭解課程 see more ](./courses-hist-lex.html) 
 
 ## 口語與言談語料分析
 
-
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
-
-  
-    
+[瞭解課程 see more ](./courses-discourse.html) 
 
 ## 法律文本分析與自然語言處理 | Legal Text Analytics and NLP
 
+[瞭解課程 see more ](./courses-lega.html)  
 
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
-  
-   
 ## 東南亞語言學系列
 
-
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
+[瞭解課程 see more ](./courses-sea-ling.html)  
 
 ## 語料庫歷史語言學與語言人類學
 
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
+[瞭解課程 see more ](./courses-ethnoling.html)
 
 ## 藝術、音樂、語言
 
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
-
-
-
+[瞭解課程 see more ](./courses-art-lang.html)  
 
 ## 台灣南島語言自然語言處理
 
+[瞭解課程 see more ](./courses-austronesian.html)  
 
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
+## 語言治療 | Topics in Clinical Linguistics
 
-[瞭解課程 see more ]( )  
+[瞭解課程 see more ](./courses-clinical-ling.html)  
 
+## 多模態語言處理 | Multimodal NLP
 
+[瞭解課程 see more ](./courses-multimodal.html)  
 
+## 自然語言處理與社會福祉 | NLP/AI for Social Good
 
-## Topics in Clinical Linguistics
-
-
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
-
-
-
-## Multimodel NLP
-
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
-
-
-
-
-## NLP/AI for Social Good
-
-自然語言處理與社會福祉
-
-[瞭解課程 see more ]( )  
-
-
-
+[瞭解課程 see more ](./courses-social-good.html)  
 
 ## 語言遊戲 | Language Games
 
-
-Lorem ipsum dolor sit amet, mei probatus singulis assentior ex. Inani admodum id his, ut noluisse appellantur vim, cibo veri singulis ne mel. Autem sonet temporibus ius ea, mea ad aliquando abhorreant. Natum quando omittam sea ex, at eruditi ancillae mediocrem mea, aperiri noluisse usu ne. Has repudiare definitiones no, alia nibh volutpat mel at. Porro splendide mei an, has at iisque diceret constituam. Pro graece oporteat no.
-
-[瞭解課程 see more ]( )  
-
+[瞭解課程 see more ](./courses-language-games.html)  
 
 ## 宗教與語言  
 
+[瞭解課程 see more ](./courses-religion-ling.html)  
 
 
