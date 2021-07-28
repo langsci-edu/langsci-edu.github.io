@@ -3,6 +3,9 @@ title: "R 程式設計"
 description: Ｒ程式設計
     
 # date: "`r Sys.Date()`"
+header-includes:
+  <link rel="stylesheet" href="css/course-graph.css">
+  <script src="js/d3.v7.min.js">
 output: distill::distill_article
 ---
 

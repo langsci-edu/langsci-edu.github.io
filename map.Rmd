@@ -3,8 +3,9 @@ title: "課程地圖與領域專長"
 description: ""
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r course-graph, echo=FALSE}
+require(htmltools)
+includeHTML("course-graph.html")
 ```
 
 具備基礎核心的語言學知識之後，可以選擇不同的領域（跨域）專長學習。
