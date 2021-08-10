@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [瞭解課程 see more ](./courses-EssentialLinguistics.html)  
 
-## 語言計算方法導論 | Computing Skills for linguistics
+## 語言研究者的計算工具箱 | Computing Skills for linguistics
 
 語言學研究的基本工具箱。本課程專為想要從事語言理論研究與實務工作者，介紹常用的的計算技能。包括常用指令列與系統小程式、Markdown 文件撰寫、`Git`/`Github` 版本控制等基本入門知識。
 
